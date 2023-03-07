@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+ 
+.news-feed{
+  background-color: blue;
+}
+.currency-converter{
+  background-color: green;
+}
+
+.app{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.exchange-rate{
+  background-color: red;
+}
